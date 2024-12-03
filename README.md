@@ -4,7 +4,7 @@
 I am an IT professional with a deep passion for technology and a strong commitment to addressing challenges in security and identity management.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT support has fueled my passion for cybersecurity, cloud security, and identity management, driving my ambition to transition into the field as a Tier 1 SOC Analyst or IAM Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
