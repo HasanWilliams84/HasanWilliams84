@@ -1,9 +1,7 @@
 # Hello, I'm Hasan Williams
 <a href="https://linkedin.com/in/Hasanwilliams"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional dedicated to safeguarding hybrid environments and advancing expertise in cloud security and identity management.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
