@@ -11,7 +11,7 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Virtualized Home Lab Using VirtualBox          | <a href="https://google.com">Virtualized Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -21,11 +21,22 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### OS
+<div>
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NAT%20Network-0A84FF?&style=for-the-badge&logo=network&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UFW%20(Uncomplicated%20Firewall)-2E7D32?&style=for-the-badge&logo=firewall&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -39,6 +50,13 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Security and Analysis Tools
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-4479A1?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-5A2C9A?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
 ## Certifications
