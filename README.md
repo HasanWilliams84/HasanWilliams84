@@ -11,7 +11,7 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualized Home Lab Using VirtualBox          | <a href="https://virtualized-home-lab.netlify.app/">Virtualized Home Lab</a>|
+| Virtualized Home Lab Using VirtualBox          | <a href="https://virtual-home-lab.netlify.app/">Virtualized Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
