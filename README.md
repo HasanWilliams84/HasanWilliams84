@@ -7,8 +7,6 @@ I am an IT professional with a deep passion for technology and a strong commitme
 My journey in IT support has fueled my passion for cybersecurity, cloud security, and identity management, driving my ambition to transition into the field as a Tier 1 SOC Analyst or IAM Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Virtualized Home Lab Using VirtualBox          | <a href="https://virtual-home-lab.netlify.app/">Virtualized Home Lab</a>|
@@ -47,9 +45,13 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Server Access Tools
+<div>
+    <img src="https://img.shields.io/badge/-Curl-003545?&style=for-the-badge&logo=curl&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSH-333333?&style=for-the-badge&logo=secure-shell&logoColor=white" />
 </div>
 
 ### Security and Analysis Tools
@@ -57,6 +59,7 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
     <img src="https://img.shields.io/badge/-Nmap-4479A1?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-5A2C9A?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UFW%20(Uncomplicated%20Firewall)-2E7D32?&style=for-the-badge&logo=firewall&logoColor=white" />
 </div>
 
 ## Certifications
