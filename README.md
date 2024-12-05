@@ -46,13 +46,13 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Server Access Tools
+### Server Access
 <div>
     <img src="https://img.shields.io/badge/-Curl-003545?&style=for-the-badge&logo=curl&logoColor=white" />
     <img src="https://img.shields.io/badge/-SSH-333333?&style=for-the-badge&logo=secure-shell&logoColor=white" />
 </div>
 
-### Security and Analysis Tools
+### Security and Analysis
 <div>
     <img src="https://img.shields.io/badge/-Nmap-4479A1?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -61,7 +61,6 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
