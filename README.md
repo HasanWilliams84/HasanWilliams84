@@ -11,10 +11,7 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
 |-----------------------------------------------|----------------------------|
 | Virtualized Home Lab Using VirtualBox          | <a href="https://virtual-home-lab.netlify.app/">Virtualized Home Lab</a>|
 | Build & Configure a Firewall | <a href="https://build-configure-firewall.netlify.app/">Build & Configure a Firewall</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Analysis with Wireshark         | <a href="https://network-traffic-analysis.netlify.app/">Network Traffic Analysis with Wireshark</a>|
 
 ## Tools
 ### Virtualization
@@ -70,3 +67,4 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
 ## Projects
 - Virtualized Home Lab Using VirtualBox
 - Build & Configure a Firewall
+- Network Traffic Analysis with Wireshark
