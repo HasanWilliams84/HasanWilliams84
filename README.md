@@ -38,6 +38,14 @@ My journey in IT support has fueled my passion for cybersecurity, cloud security
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-S3-569A31?&style=for-the-badge&logo=AmazonS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IAM-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EC2-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+</div>
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
